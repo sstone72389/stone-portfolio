@@ -49,10 +49,6 @@ a,.tp-caption a.btn:hover {
 }
 
 
-
-form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
-	border-color: #3dc9b3;
-}
 form.search-form input:focus {
 	border-color: #3dc9b3;
 }

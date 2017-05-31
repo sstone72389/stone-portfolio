@@ -217,7 +217,7 @@ blockquote strong {
 }
 
 .navbar-custom ul.nav ul.dropdown-menu {
-	  border-radius: 0;	
+	  border-radius: 0;
 	margin-top: 21px;
 	border-top: none;
 }
@@ -487,9 +487,9 @@ hr.bold {
 	padding: 0;
 }
 
-.carousel-control .glyphicon-chevron-left, 
-.carousel-control .glyphicon-chevron-right, 
-.carousel-control .icon-prev, 
+.carousel-control .glyphicon-chevron-left,
+.carousel-control .glyphicon-chevron-right,
+.carousel-control .icon-prev,
 .carousel-control .icon-next {
 	position: absolute;
 	top: 45%;
@@ -600,7 +600,7 @@ hr.bold {
 
 .service-icon {
 	margin-bottom: 20px;
-}	
+}
 
 .service-desc h5 {
 	text-transform: uppercase;
@@ -629,7 +629,7 @@ hr.bold {
     display: block;
     width: 100%;
     height: auto;
-}	
+}
 
 /* ===========================
 --- Contact
@@ -672,30 +672,11 @@ hr.bold {
 	display:block;
 }
 
-form#contact-form .form-group label {
-	text-align: left !important;
-	display: block;
-	text-transform: uppercase;
-	font-size: 16px;
-}
-form#contact-form input,form#contact-form select,form#contact-form textarea {
-	font-size: 14px;
-	line-height: 1.6em;
-	border: 1px solid #eee;
-  -webkit-box-shadow: none;
-          box-shadow:  none;
-	border-radius: 2px;
-}
-
 .btn-lg,
 .btn-group-lg > .btn {
   border-radius: 2px;
 }
 
-form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
-  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .05);
-          box-shadow: 0 1px 2px rgba(0, 0, 0, .05);
-}
 .input-group-addon {
   background-color: #fefefe;
   border: 1px solid #eee;
@@ -725,7 +706,7 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 }
 
 
-.box-social .social-facebook a { 
+.box-social .social-facebook a {
 	display: block;
 	background: #3873ae;
 }
@@ -841,7 +822,7 @@ footer {
 footer {
 	text-align: center;
 	padding: 50px 0 30px ;
-	
+
 }
 
 footer .copyright {
@@ -925,7 +906,7 @@ footer .social-widget ul.team-social li a {
 	text-decoration: none;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	font-weight: 400;	
+	font-weight: 400;
 	text-shadow: 0 0 1px rgba(255,255,255,0.3);
 	font-size: 14px;
 }
@@ -1015,7 +996,7 @@ a.btn:focus{
     .navbar-custom.top-nav-collapse {
         border-bottom: 1px solid rgba(255,255,255,.3);
     }
-	
+
     .intro {
         height: 100%;
         padding: 0;
@@ -1024,7 +1005,7 @@ a.btn:focus{
     .brand-heading {
         font-size: 100px;
     }
-	
+
 
     .intro-text {
         font-size: 25px;
@@ -1054,29 +1035,25 @@ a.btn:focus{
 	.navbar-header button {
 		background: #111;
 	}
-	
+
 	.navbar-header button.navbar-toggle {
 		padding: 4px 15px;
 		font-size: 14px;
 		color: #fff;
 	}
-	
+
 	.navbar-custom .nav {
 		background: #444;
 	}
-	
+
 	.service-box {
 		margin-bottom: 50px;
 	}
-	
+
 	.team-wrap {
 		margin-bottom: 30px;
 	}
-	
-	form#contact-form {
-		margin-bottom: 50px;
-	}
-	
+
 	.xs-marginbot-20 {
 		margin-bottom: 20px;
 	}
@@ -1088,7 +1065,7 @@ a.btn:focus{
 	.navbar-custom .nav.navbar-nav {
     background-color: rgba(255,255,255,.4);
 	}
-	
+
 	.navbar.navbar-custom.navbar-fixed-top {
 		margin-bottom: 30px;
 	}
