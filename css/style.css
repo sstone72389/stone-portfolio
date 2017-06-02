@@ -5,6 +5,10 @@
 	margin:0;
 }
 
+.headshot {
+	margin: 0 auto;
+}
+
 .img2border{
 	border: 1px solid #5bc0de;
 }
