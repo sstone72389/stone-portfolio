@@ -13,6 +13,10 @@
 	border: 1px solid #5bc0de;
 }
 
+#resume {
+	padding-top: 75px;
+}
+
 body {
     width: 100%;
     height: 100%;
