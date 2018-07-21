@@ -13,9 +13,9 @@
 	border: 1px solid #5bc0de;
 }
 
-/*.img3border{
-	border: 1px solid #da0e36;
-}*/
+.img3border{
+	border: 1px solid black;
+}
 
 #resume {
 	padding-top: 75px;
