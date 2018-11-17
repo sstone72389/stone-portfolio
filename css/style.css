@@ -18,7 +18,7 @@
 }
 
 #resume {
-	padding-top: 75px;
+	padding-top: 0;
 }
 
 .flex-me {
@@ -371,9 +371,8 @@ hr.bold {
 ============================ */
 
 .home-section {
-    padding-top: 150px;
-    padding-bottom: 110px;
-	display:block;
+    padding-top: 50px;
+	  display:block;
     position:relative;
     z-index:120;
 }
