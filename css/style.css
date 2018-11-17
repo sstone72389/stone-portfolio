@@ -10,11 +10,17 @@
 }
 
 .img2border{
-	border: 1px solid #5bc0de;
+	border: 1px solid red;
 }
 
 .img3border{
+	border: 1px solid #FFC700;
+}
+.img4border{
 	border: 1px solid black;
+}
+.img5border{
+	border: 1px solid orangered;
 }
 
 #resume {
