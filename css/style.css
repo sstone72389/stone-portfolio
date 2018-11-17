@@ -743,6 +743,15 @@ hr.bold {
 	background: #3873ae;
 }
 
+/* ==== Social Media Container ==== */
+
+.social-media-container {
+	max-width: 315px;
+}
+
+.social-media-row {
+	display: flex;
+}
 
 /* ==== Sidebar ==== */
 .sidebar .widget h5 {
