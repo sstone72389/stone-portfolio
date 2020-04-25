@@ -635,7 +635,6 @@ hr.bold {
 	border-bottom: 2px solid #f7f7f7;
 	padding: 40px 20px;
 }
-
 /* .service-box:hover {
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
@@ -1029,6 +1028,11 @@ a.btn:focus{
 }
 
 /* Media queries */
+@media screen and (min-width:990px) and (max-width:1199px){
+	.service-box#test-txt-2{
+	  padding-bottom: 65px;
+	}
+}
 
 @media(min-width:767px) {
 
