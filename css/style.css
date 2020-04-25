@@ -9,6 +9,10 @@
 	margin: 0 auto;
 }
 
+.testimonial-text {
+	padding-bottom: 40px;
+}
+
 .img2border{
 	border: 1px solid #2e7d9c;
 }
@@ -119,6 +123,10 @@ h1.font-light,h2.font-light,h3.font-light,h4.font-light,h5.font-light,h6.font-li
 .big-heading {
 	font-size: 48px;
 	font-weight: 700;
+}
+
+.whyMe {
+	margin-bottom: 20px;
 }
 
 p {
@@ -628,12 +636,12 @@ hr.bold {
 	padding: 40px 20px;
 }
 
-.service-box:hover {
+/* .service-box:hover {
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
 	margin-top: -20px;
-}
+} */
 
 .service-icon {
 	margin-bottom: 20px;
